@@ -26,4 +26,5 @@
     "nodemon": "^3.1.14",
     "stripe": "^21.0.1"
   }
+  "engines": { "node": "18.x" }
 }
